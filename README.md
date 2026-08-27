@@ -52,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Karan1674/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1674/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Karan1674/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
