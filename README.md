@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Karan1674/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Karan1674/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Karan1674/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Karan1674/LeetCode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karan1674/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karan1674/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Karan1674/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Pigeonhole Principle
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Karan1674/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
