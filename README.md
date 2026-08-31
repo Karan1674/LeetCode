@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Karan1674/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Karan1674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1674/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karan1674/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Karan1674/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1674/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Karan1674/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -112,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Karan1674/LeetCode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
