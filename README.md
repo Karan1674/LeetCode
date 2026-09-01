@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Karan1674/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1009-complement-of-base-10-integer](https://github.com/Karan1674/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
