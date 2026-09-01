@@ -1,14 +1,5 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int ans = 1;
-        for(int i = 0; i < 31; i++){
-            if(ans == n){
-                return true;
-            }
-            if(ans < Integer.MAX_VALUE / 2){
-                ans = ans * 2;
-            }
-        }
-        return false;
+        return n > 0 && (n & (n - 1)) == 0;
     }
 }
