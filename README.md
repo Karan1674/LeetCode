@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Karan1674/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Karan1674/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Karan1674/LeetCode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Karan1674/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karan1674/LeetCode/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karan1674/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Karan1674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Karan1674/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1674/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karan1674/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Karan1674/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Karan1674/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Karan1674/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karan1674/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
