@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karan1674/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Karan1674/LeetCode/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Karan1674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Pigeonhole Principle
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Karan1674/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Karan1674/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
