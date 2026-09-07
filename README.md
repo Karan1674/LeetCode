@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Karan1674/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Karan1674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Karan1674/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Karan1674/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Karan1674/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Karan1674/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Karan1674/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
