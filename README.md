@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Karan1674/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Karan1674/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Karan1674/LeetCode/tree/master/0682-baseball-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Karan1674/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karan1674/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karan1674/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Karan1674/LeetCode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Karan1674/LeetCode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karan1674/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karan1674/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Karan1674/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
