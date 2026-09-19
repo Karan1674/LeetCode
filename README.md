@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/Karan1674/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Karan1674/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Karan1674/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Karan1674/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Karan1674/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Karan1674/LeetCode/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karan1674/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Karan1674/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Karan1674/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Karan1674/LeetCode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Karan1674/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Tree
