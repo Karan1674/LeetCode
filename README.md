@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Karan1674/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Karan1674/LeetCode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karan1674/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Karan1674/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Karan1674/LeetCode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Karan1674/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Karan1674/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
