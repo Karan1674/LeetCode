@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Karan1674/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karan1674/LeetCode/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/Karan1674/LeetCode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karan1674/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Karan1674/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Karan1674/LeetCode/tree/master/3871-count-commas-in-range-ii) |
