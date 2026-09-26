@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Karan1674/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan1674/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Karan1674/LeetCode/tree/master/0682-baseball-game) |
+| [1207-unique-number-of-occurrences](https://github.com/Karan1674/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Karan1674/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karan1674/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karan1674/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Karan1674/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan1674/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Karan1674/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karan1674/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Karan1674/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
