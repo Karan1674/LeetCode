@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karan1674/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Karan1674/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Karan1674/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Karan1674/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karan1674/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Karan1674/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Karan1674/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Karan1674/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Karan1674/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Karan1674/LeetCode/tree/master/0682-baseball-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Karan1674/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
