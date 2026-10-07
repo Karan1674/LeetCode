@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Karan1674/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karan1674/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Karan1674/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Karan1674/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Karan1674/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Karan1674/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan1674/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Karan1674/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Karan1674/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Karan1674/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Karan1674/LeetCode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Karan1674/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Karan1674/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Karan1674/LeetCode/tree/master/0940-distinct-subsequences-ii) |
