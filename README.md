@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Karan1674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Karan1674/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Karan1674/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Karan1674/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Karan1674/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Karan1674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karan1674/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Karan1674/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Karan1674/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Karan1674/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Pigeonhole Principle
