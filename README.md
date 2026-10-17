@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1207-unique-number-of-occurrences](https://github.com/Karan1674/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Karan1674/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Karan1674/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Karan1674/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karan1674/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Karan1674/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karan1674/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Karan1674/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Karan1674/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Karan1674/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [2404-most-frequent-even-element](https://github.com/Karan1674/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karan1674/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Karan1674/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan1674/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2404-most-frequent-even-element](https://github.com/Karan1674/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
