@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Karan1674/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Karan1674/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Karan1674/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Karan1674/LeetCode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Karan1674/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Karan1674/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Karan1674/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karan1674/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1674/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Karan1674/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karan1674/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Karan1674/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Karan1674/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Karan1674/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Karan1674/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Karan1674/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Karan1674/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Karan1674/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Karan1674/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Karan1674/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Karan1674/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Karan1674/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karan1674/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Karan1674/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Karan1674/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan1674/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
@@ -195,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Karan1674/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Karan1674/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Karan1674/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Karan1674/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karan1674/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Karan1674/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Karan1674/LeetCode/tree/master/0560-subarray-sum-equals-k) |
